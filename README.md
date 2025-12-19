@@ -1,9 +1,9 @@
-#🍽️ RestroGirls – Food Delivery Web Application
+<h1>🍽️ RestroGirls – Food Delivery Web Application</h1>
 
-RestroGirls is a responsive food delivery web application designed to provide users with an easy and smooth food ordering experience. The platform includes a user-friendly frontend and a secure admin panel for managing foods, categories, and orders.
+<p>RestroGirls is a responsive food delivery web application designed to provide users with an easy and smooth food ordering experience. The platform includes a user-friendly frontend and a secure admin panel for managing foods, categories, and orders.</p>
 
 -----------------------------------------------------------------------------------------------------------
-##🚀 Features
+<h2>🚀 Features</h2>
 👨‍🍳 User Side
 
 Beautiful and responsive homepage
@@ -36,9 +36,9 @@ Logout functionality
 
 -----------------------------------------------------------------------------------------------------------
 
-##🖼️ Screenshots
+🖼️ Screenshots
 
-![User Homepage](img/Home.png)
+![User Homepage](Img/Home.png)
 
 ![About Us](img/About.png)
 
@@ -60,7 +60,7 @@ Logout functionality
 
 -----------------------------------------------------------------------------------------------------------
 
-##🧑‍💻 Technologies Used
+🧑‍💻 Technologies Used
 Frontend
 
   HTML5
@@ -85,30 +85,34 @@ Tools
 
 -----------------------------------------------------------------------------------------------------------
 
-##📂 Project Structure
-  RestroGirls/
+📂 Project Structure
+  RestroGirls/<br>
 │
-├── admin/
-│   ├── dashboard.php
-│   ├── foods.php
-│   ├── categories.php
-│   └── orders.php
+├── admin/<br>
+│   ├── dashboard.php<br>
+│   ├── foods.php<br>
+│   ├── categories.php<br>
+│   └── orders.php<br>
 │
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
+├── assets/<br>
+│   ├── css/<br>
+│   ├── js/<br>
+│   └── images/<br>
 │
-├── includes/
-│   ├── db.php
-│   └── header.php
+├── includes/<br>
+│   ├── db.php<br>
+│   ├── footer.php<br>
+│   └── header.php<br>
 │
-├── index.php
-├── about-restro-girls.php
-├── contact.php
-├── feedback.php
-├── login.php
-├── register.php
+├── index.php<br>
+├── about-restro-girls.php<br>
+├── categories.php<br>
+├── contact.php<br>
+├── food-menu.php<br>
+├── feedback.php<br>
+├── login.php<br>
+├── register.php<br>
+├── logout.php<br>
 └── README.md
 
 -----------------------------------------------------------------------------------------------------------
@@ -143,7 +147,7 @@ Tools
 
  ```http://localhost/RestroGirls/```
 -----------------------------------------------------------------------------------------------------------
-##🔐 Admin Login (Default)
+🔐 Admin Login (Default)
 Email: admin@gmail.com
 Password: 12345
 
@@ -178,6 +182,6 @@ For any queries or support, please contact:
 Email:  sayanadhikary831@gmail.com
 Website: https://sayanadhikary.free.nf/
 -----------------------------------------------------------------------------------------------------------
-##⭐️ Support
+⭐️ Support
 If you find this project useful, please give it a star on GitHub! Your support is greatly appreciated.
 --- IGNORE ---
