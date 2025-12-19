@@ -178,10 +178,10 @@ Sayan Adhikary
 ![This project is licensed under the MIT License - see the LICENSE file for details.](RestroGirls/LICENSE)
 -----------------------------------------------------------------------------------------------------------
 <h2>📞 Contact</h2>
-For any queries or support, please contact:
-Email:  sayanadhikary831@gmail.com
-Website: https://sayanadhikary.free.nf/
+For any queries or support, please contact:<br>
+Email:  sayanadhikary831@gmail.com<br>
+Website: https://sayanadhikary.free.nf/<br>
 -----------------------------------------------------------------------------------------------------------
 <h2>⭐️ Support </h2>
-If you find this project useful, please give it a star on GitHub! Your support is greatly appreciated.
+If you find this project useful, please give it a star on GitHub! Your support is greatly appreciated.<br>
 --- IGNORE ---
