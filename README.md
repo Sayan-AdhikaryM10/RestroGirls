@@ -4,7 +4,7 @@
 
 -----------------------------------------------------------------------------------------------------------
 <h2>🚀 Features</h2>
-👨‍🍳 User Side
+<h3>👨‍🍳 User Side </h3>
 
 Beautiful and responsive homepage
 
@@ -20,7 +20,7 @@ Feedback form with rating system
 
 User authentication (Login / Register)
 
-🛠️ Admin Panel
+<h3>🛠️ Admin Panel </h3>
 
 Secure Admin Login
 
@@ -36,7 +36,7 @@ Logout functionality
 
 -----------------------------------------------------------------------------------------------------------
 
-🖼️ Screenshots
+<h2>🖼️ Screenshots</h2>
 
 ![User Homepage](Img/Home.png)
 
@@ -60,8 +60,8 @@ Logout functionality
 
 -----------------------------------------------------------------------------------------------------------
 
-🧑‍💻 Technologies Used
-Frontend
+<h2>🧑‍💻 Technologies Used</h2>
+<h3>Frontend </h3>
 
   HTML5
 
@@ -71,13 +71,13 @@ Frontend
 
   Bootstrap
 
-Backend
+<h3>Backend </h3>
 
   PHP
 
   MySQL
 
-Tools
+<h3>Tools </h3>
 
   XAMPP
 
@@ -85,7 +85,7 @@ Tools
 
 -----------------------------------------------------------------------------------------------------------
 
-📂 Project Structure
+<h2>📂 Project Structure </h2>
   RestroGirls/<br>
 │
 ├── admin/<br>
@@ -117,7 +117,7 @@ Tools
 
 -----------------------------------------------------------------------------------------------------------
 
-⚙️ Installation Steps
+<h2>⚙️ Installation Steps</h2>
 
 1.Install XAMPP
 
@@ -147,14 +147,14 @@ Tools
 
  ```http://localhost/RestroGirls/```
 -----------------------------------------------------------------------------------------------------------
-🔐 Admin Login (Default)
+<h2>🔐 Admin Login (Default)</h2>
 Email: admin@gmail.com
 Password: 12345
 
 
 (Change credentials after first login for security)
 -----------------------------------------------------------------------------------------------------------
-📌 Future Enhancements
+<h2>📌 Future Enhancements </h2>
 
 Online payment gateway
 
@@ -167,21 +167,21 @@ User order history
 Admin analytics dashboard
 
 -----------------------------------------------------------------------------------------------------------
-🙌 Author
+<h2>🙌 Author</h2>
 
 Sayan Adhikary
 📍 India
 💻 Web Developer (HTML, CSS, JS, PHP, MySQL)
 
 -----------------------------------------------------------------------------------------------------------
-##📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<h2>📄 License</h2>
+![This project is licensed under the MIT License - see the LICENSE file for details.](RestroGirls/LICENSE)
 -----------------------------------------------------------------------------------------------------------
-##📞 Contact
+<h2>📞 Contact</h2>
 For any queries or support, please contact:
 Email:  sayanadhikary831@gmail.com
 Website: https://sayanadhikary.free.nf/
 -----------------------------------------------------------------------------------------------------------
-⭐️ Support
+<h2>⭐️ Support </h2>
 If you find this project useful, please give it a star on GitHub! Your support is greatly appreciated.
 --- IGNORE ---
