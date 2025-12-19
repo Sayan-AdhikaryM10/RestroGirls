@@ -123,7 +123,7 @@ Logout functionality
 
 2.Clone the repository:
 
-  ```git clone https://github.com/your-username/RestroGirls.git```
+  ```git clone https://github.com/Sayan-AdhikaryM10/RestroGirls.git```
 
 
 3.Move the project to:
