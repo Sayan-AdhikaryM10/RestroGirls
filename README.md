@@ -40,23 +40,23 @@ Logout functionality
 
 ![User Homepage](Img/Home.png)
 
-![About Us](img/About.png)
+![About Us](Img/About.png)
 
-![Categories](img/Categories.png)
+![Categories](Img/Categories.png)
 
-![Food Menu](img/Food.png)
+![Food Menu](Img/Food.png)
 
-![Contact Us](img/Contact.png)
+![Contact Us](Img/Contact.png)
 
-![Feedback Form](img/Feedback.png)
+![Feedback Form](Img/Feedback.png)
 
-![Admin Login](img/Admin_login.png)
+![Admin Login](Img/Admin_login.png)
 
-![Admin Dashboard](img/Admin_Main.png)
+![Admin Dashboard](Img/Admin_Main.png)
 
-![Customer Login](img/login.png)
+![Customer Login](Img/login.png)
 
-![Customer Registration](img/register.png)
+![Customer Registration](Img/register.png)
 
 -----------------------------------------------------------------------------------------------------------
 
