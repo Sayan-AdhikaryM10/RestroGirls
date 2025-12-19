@@ -52,11 +52,11 @@ Logout functionality
 
 ![Admin Login](Img/Admin_login.png)
 
-![Admin Dashboard](Img/Admin_Main.png)
+![Admin Dashboard](Img/Admin_main.png)
 
-![Customer Login](Img/login.png)
+![Customer Login](Img/Login.png)
 
-![Customer Registration](Img/register.png)
+![Customer Registration](Img/Register.png)
 
 -----------------------------------------------------------------------------------------------------------
 
